@@ -1,0 +1,22 @@
+.div_1{
+    width: 60%;
+    background-color: bisque;
+    font-family: monospace;
+    padding: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 80px;
+}
+
+.div_2{
+    width: 60%;
+    background-color: bisque;
+    font-family: monospace;
+    padding: 20px;
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 80px;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+}
